@@ -7,7 +7,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake.svg" />
 </picture>
 
-# 💻 Tech Stack:
+# 💻 Tech 
 
 **Languages & Backend:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -39,19 +39,19 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📊 GitHub Stats:
+## 𐦖 Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=monxvoll&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  
-  <br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=monxvoll&theme=dark&hide_border=false" />
+ 
+   <img src="https://nirzak-streak-stats.vercel.app/?user=monxvoll&theme=dark&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=monxvoll&theme=dark&hide_border=true" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monxvoll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monxvoll&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monxvoll&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
