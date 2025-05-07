@@ -1,6 +1,11 @@
 # 𖣂  About Me:
 I’m a proud Software Engineering student from Boyacá, currently studying at UPTC, with a strong passion for backend development. Although backend is my main focus at the moment, I’m open to exploring other areas or combining them in the future. I’m currently specializing in Java and the technologies surrounding it. I'm driven by the desire to keep learning and exploring new languages and tools within the development world.<br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake.svg" />
+</picture>
 
 # 💻 Tech Stack:
 
@@ -34,13 +39,20 @@ I’m a proud Software Engineering student from Boyacá, currently studying at U
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=monxvoll&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=monxvoll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monxvoll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake.svg" />
-</picture>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=monxvoll&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  
+  <br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=monxvoll&theme=dark&hide_border=false" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monxvoll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+
