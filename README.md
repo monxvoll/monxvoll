@@ -1,5 +1,5 @@
 # 𖣂  About Me:
-I’m a proud student from Boyacá, currently studying at UPTC, with a strong passion for backend development. Although backend is my main focus at the moment, I’m open to exploring other areas or combining them in the future. I’m currently specializing in Java and the technologies surrounding it. I'm driven by the desire to keep learning and exploring new languages and tools within the development world.<br><br>
+I’m a proud Software Engineering student from Boyacá, currently studying at UPTC, with a strong passion for backend development. Although backend is my main focus at the moment, I’m open to exploring other areas or combining them in the future. I’m currently specializing in Java and the technologies surrounding it. I'm driven by the desire to keep learning and exploring new languages and tools within the development world.<br><br>
 
 # 💻 Tech Stack:
 
