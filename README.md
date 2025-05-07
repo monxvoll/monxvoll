@@ -43,7 +43,7 @@
 <p align="center"> 🎈 <a href="https://github.com/monxvoll/NotesVault">𝘕𝘰𝘵𝘦𝘴𝘝𝘢𝘶𝘭𝘵</a> 🎈 </p> 
 
 
-# 𖠊 
+# 
 
 **Languages & Backend:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
