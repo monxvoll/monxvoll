@@ -7,7 +7,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake.svg" />
 </picture>
 
-# 𖠊 Tech 
+# 𖠊 
 
 **Languages & Backend:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -39,7 +39,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 𐦖 Stats
+## 𐦖 
 
 <div align="center">
  
