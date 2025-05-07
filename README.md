@@ -20,7 +20,7 @@
 
 
 
-<p align="center">🍬 Currently working on my personal project with <a href="https://github.com/JoseSLK">@JoseSLK</a> 🍬</p>
+<p align="center">🍬 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘮𝘺 𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 <a href="https://github.com/JoseSLK">@JoseSLK</a> 🍬</p>
 
  ```text
                                                                                                                      
