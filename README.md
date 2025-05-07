@@ -40,7 +40,7 @@
             '---'                               `----'                         `--`---'                                    
                                                                                                                
 ```           
-<p align="center"> 🎈 <a href="https://github.com/monxvoll/NotesVault">𝘕𝘰𝘵𝘦𝘴𝘝𝘢𝘶𝘭𝘵</a> 🎈 </p> ```
+<p align="center"> 🎈 <a href="https://github.com/monxvoll/NotesVault">𝘕𝘰𝘵𝘦𝘴𝘝𝘢𝘶𝘭𝘵</a> 🎈 </p> 
 
 # 𖠊 
 
