@@ -40,7 +40,10 @@
             '---'                               `----'                         `--`---'                                    
                                                                                                                
 ```           
-<p align="center">  <a href="https://github.com/monxvoll/NotesVault">🔍  </p> 
+<p align="center">
+   <a href="https://github.com/monxvoll/NotesVault">🐦</a>
+</p>
+
 
 
 # 
