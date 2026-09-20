@@ -14,21 +14,19 @@
 # 
 
 **Languages & Backend:**  
-<img src="https://skillicons.dev/icons?i=java,js,go,cpp,py,spring" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,go,cpp,py,spring,express,flask" />
 
 **Frontend & UI:**  
-<img src="https://skillicons.dev/icons?i=html,css,angular,electron" />
+<img src="https://skillicons.dev/icons?i=html,css,angular,flutter" />
 
 **Databases & Cloud:**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp" />
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp,aws" />
 
 **DevOps & Tools:**  
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman" />
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,arch" />
 
 **Design & Others:**  
-<img src="https://skillicons.dev/icons?i=figma" />
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma,md" />
+
 
 ![footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
