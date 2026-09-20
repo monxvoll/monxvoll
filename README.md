@@ -1,7 +1,7 @@
 # 𖣂  
 *I’m a proud Software Engineering student from Boyacá, currently studying at UPTC, with a strong passion for backend development. Although backend is my main focus at the moment, I’m open to exploring other areas for combining them in the future. I’m currently specializing in Java, Go and the technologies surrounding it. I'm driven by the desire to keep learning and exploring new languages and tools within this world.*<br><br>
 
-<div align="center" >  
+<div align="center">  
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monxvoll/monxvoll/output/github-snake-dark.svg" />
@@ -28,5 +28,8 @@
 **Design & Others:**  
 <img src="https://skillicons.dev/icons?i=figma,md" />
 
+<br>
 
-![footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="footer" />
+</div>
