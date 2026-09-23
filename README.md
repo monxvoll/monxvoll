@@ -7,7 +7,7 @@
 <br>
 
 <p align="justify">
-  <em>I'm a proud Software Engineering student from Boyacá, currently studying at UPTC, with a strong passion for backend development. Although backend is my main focus at the moment, I’m open to exploring other areas for combining them in the future. I’m currently specializing in Java, Go and the technologies surrounding it. I'm driven by the desire to keep learning and exploring new languages and tools within this world.</em>
+  <em>I'm a proud Software Engineering student from Boyacá, currently studying at UPTC, with a strong passion for backend development. Although backend is my main focus at the moment, I’m open to exploring other areas for combining them in the future. I’m currently specializing in Go and the technologies surrounding it. I'm driven by the desire to keep learning and exploring new languages and tools within this world.</em>
 </p>
 
 <br>
